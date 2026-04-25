@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Aaron Jones**, I'm an undergrad studying Informatics at the University of Washington (Seattle Campus). 
+My name is **Aaron Jones**, I'm a Digital Success Associate at Okta and a University of Washington Alumni. 
 Feel free to contact with me via [LinkedIn](https://www.linkedin.com/in/aaronjonesm/) or any other social media site you see me on.
 
 I'm most familiar with:
